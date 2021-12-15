@@ -1,4 +1,4 @@
-### Hello 👋, I'm Edjancarlos Filho
+### Hello 👋, I'm Edjan
 
 <div align="center">
   <h3>Lover of new technologies and passionate about web development</h3>

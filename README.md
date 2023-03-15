@@ -1,10 +1,12 @@
 ### Hello 👋, I'm Edjan
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <p align="left"> 
-  Web development aficionado, dedicated to staying up-to-date with the latest technologies and best practices to deliver high-quality and scalable web applications.
+  <strong>Web development</strong> aficionado, dedicated to staying up-to-date with the latest technologies and best practices to deliver high-quality and scalable web applications.
 </p>
+<br/>
 
 <p align="left" style="margin-top: 30px;">
   🦄 Languages: 
@@ -25,6 +27,4 @@
 
   <a href="https://www.instagram.com/edc_nogueira/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
-
-  
+</p>
